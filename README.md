@@ -9,7 +9,7 @@
 **License:** Free
 
 [![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&logo=telegram&logoColor=aiogram)](https://pypi.org/project/aiogram/)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=green)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=green&logo=python&logoColor=green)
 
 ### Бот модератор в группе / чате
 **Запуск бота**
