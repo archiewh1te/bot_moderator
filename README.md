@@ -8,7 +8,7 @@
 
 **License:** Free
 
-[![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&logo=aiogram)](https://pypi.org/project/aiogram/)
+[![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&logo=telegram&logoColor=aiogram)](https://pypi.org/project/aiogram/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=green)
 
 ### Бот модератор в группе / чате
