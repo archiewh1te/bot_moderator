@@ -2,11 +2,14 @@
 
 **Author:** @ArchieWh1te
 
-**Language:** Python 3.8+
+**Language:** Python 3.8
 
 **framework for Telegram** Aiogram 2.23.1 
 
 **License:** Free
+
+[![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&logo=aiogram)](https://pypi.org/project/aiogram/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=green)
 
 ### Бот модератор в группе / чате
 **Запуск бота**
